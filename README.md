@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amr telbani</h1>
-<h3 align="center">A creative mobile apps engineer from Palestine</h3>
+<h3 align="center">A software engineer from Palestine</h3>
 
 <p align="center">> <img align="center" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"> </p>
 
